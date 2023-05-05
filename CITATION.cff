@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you would like to reference the lectures, you can use the format below."
+authors:
+  - family-names: Stratos
+    given-names: Karl
+title: "Lectures on Natural Language Processing"
+version: 1.0.0
+date-released: 2023-05-05
+url: "https://github.com/karlstratos/nlp-class-private"
