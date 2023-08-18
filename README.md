@@ -19,7 +19,7 @@ The purpose of this repostitory is to share the materials in a graduate-level co
 | 11      | [Structured prediction: HMMs and PCFGs](lectures/lecture11.pdf)            |                      |
 | 12      | [Structured prediction: CRFs](lectures/lecture12.pdf)                      |   [Variable elimination](http://karlstratos.com/notes/graphical_models.pdf)                   |
 | 13      | [Latent-variable generative models](lectures/lecture13.pdf)                |   [Gaussian](http://karlstratos.com/notes/gaussian.pdf), [VAEs](http://karlstratos.com/notes/varinfo.pdf), [LVGMs](http://karlstratos.com/notes/facts_latent.pdf)                    |
-| 14      | [Diffusion models, coreference resolution, review](lectures/lecture14.pdf) |   [Diffusion models](http://karlstratos.com/notes/diffusion.pdf)                   |
+| 14      | [Diffusion models, coreference resolution, review](lectures/lecture14.pdf) |   [Diffusion models](http://karlstratos.com/notes/diffusion.pdf), [vision architectures](http://karlstratos.com/notes/vision.pdf)                   |
 
 ## Acknowledgement
 
